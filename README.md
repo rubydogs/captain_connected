@@ -1,4 +1,4 @@
-# Cc
+# CC - CapitanConnected
 
 Welcome to your new Hanami project!
 
